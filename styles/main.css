@@ -6,3 +6,14 @@ body{
 h1, h2{
     font-family: 'Raleway', sans-serif;
 }
+.container{
+    border:5px solid #0a0a0a;
+    margin:40px;
+    padding:40px;
+}
+.container{
+    width:100%;	
+    margin:auto;
+    max-width: 1200px;
+    min-width: 600px;
+}
